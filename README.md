@@ -1,6 +1,6 @@
 **Boas vindas ao meu perfil!**
 
-Meu nome é João Pedro
+ Meu nome é João Pedro
 
 • Estou estudando na Alura
 
